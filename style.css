@@ -1,0 +1,71 @@
+body{
+    background: rgba(0,0,0,1);
+}
+.main{
+  background: #fff;
+}
+nav{
+  padding: 0px;
+}
+#mod-navigation{
+background:url(bgMenu.gif) center repeat-x;
+}
+#mod-navigation a{
+  color:#fff;
+  font-size: 18px;
+}
+#mod-navigation li:hover a{
+  background: #89700b;
+}
+#mod-banner img{
+ max-width: 100%;
+ width: 100%;
+}
+#mod-quanliphong-content{
+}
+#mod-quanliphong-content .items {
+  margin: 30px 0px;
+  padding: 30px 0px;
+  border-bottom: 1px solid rgba(0,0,0,0.25);
+}
+#mod-quanliphong-content .item-image{
+  transition: 2s;
+  position: relative;
+}
+#mod-quanliphong-content .item img{
+  margin: 0 auto;
+  max-width: 100%;
+  width: 100%;
+  max-height: 300px;
+  border: 1px solid rgba(0,0,0,0.25);
+}
+#mod-quanliphong-content .item-image:hover .layer{
+  display: block !important;
+  transition: 2s;
+}
+#mod-quanliphong-content button a{
+  color: #fff;
+}
+#mod-quanliphong-content .layer{
+  display: none !important;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.75);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  transition: 2s;
+}
+#mod-quanliphong-content .layer h4{
+  margin: 0 auto;
+  color: #fff;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  transition: 1s;
+}
+.active{
+  background: #89700b;
+}
