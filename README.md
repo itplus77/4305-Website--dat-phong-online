@@ -1,5 +1,5 @@
 # 4305-phan-mem-quan-ly-khach-san
-phần mềm quản lý quán cafe được viết trên ngôn ngữ php
+phần mềm quản lý quán cafe được viết trên ngôn ngữ jsp
 kết hợp với hệ quản trị db2
 Nhóm trưởng Lê Thị Hoài Thuận Gmail: hoaithuan95@gmail.com 
                               TK gitthub: 
