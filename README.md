@@ -84,7 +84,7 @@ Tài liệu thiết kế: [Tài liệu dành cho thiết kế Html css](https://
 
 #### Demo Giao diện ban đầu
 
-[chuyển tiếp đên trang web demo giao diện](https://itplus77.github.io/demodatphongonline.github.io/https://itplus77.github.io/demodatphongonline.github.io/)
+[chuyển tiếp đên trang web demo giao diện](https://itplus77.github.io/demodatphongonline.github.io/)
 
 
 
