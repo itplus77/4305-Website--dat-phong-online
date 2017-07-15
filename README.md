@@ -77,9 +77,22 @@ Tài liệu thiết kế: [Tài liệu dành cho thiết kế Html css](https://
 #### Danh sách các lỗi và cách sửa chữa:
 
 - lỗi kết nối CSDL: [kết nối CSDL DB2 đến JSP Hướng dẫn](http://congdongjava.com/forum/threads/help-k%E1%BA%BFt-n%E1%BB%91i-t%E1%BB%9Bi-csdl-b%E1%BA%B1ng-jsp.16832/)
+
 - Tổng hợp lỗi trong JSP: [Cách khắc phục](http://kenhlaptrinh.net/bai-20-tong-hop-mot-so-loi-va-cach-khac-phuc-trong-jsp-servlet/)
 
+  ​
+
+#### Demo Giao diện ban đầu
+
+[chuyển tiếp đên trang web demo giao diện]([https://itplus77.github.io/demodatphongonline.github.io/](https://itplus77.github.io/demodatphongonline.github.io/))
+
+
+
 #### Kiến thức áp dụng
+
+####  
+
+
 
 - Sử dụng ngôn ngữ JSP và CSDL DB2 
 
