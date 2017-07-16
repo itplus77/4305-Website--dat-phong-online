@@ -34,10 +34,14 @@ Tập tin index.php được xem như controller đầu vào, tiếp nhận các
 
 
 Thư mục [controllers](https://github.com/itplus77/4305-Website--dat-phong-online/tree/master/controller): chứa các lớp controller
+
 Thư mục [connection](https://github.com/itplus77/4305-Website--dat-phong-online/tree/master/connection): chứa kết nối với csdl
+
 Thư mục [models](https://github.com/itplus77/4305-Website--dat-phong-online/tree/master/model): chứa các lớp model
 
+
 Thư mục [js](https://github.com/itplus77/4305-Website--dat-phong-online/tree/master/js): bootstrap.js để thiết kết giao diện html
+
 Thư mục [entities](https://github.com/itplus77/4305-Website--dat-phong-online/tree/master/entities): chứa các thực thể
 
 #### Quản lý phiên bản:
