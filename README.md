@@ -2,7 +2,7 @@
 
 ## Website quản lý đặt phòng online khách sạn Fairybay
 
-​	 				<img scr="http://imgur.com/wlr7V5R">
+​	 				                     ![a](http://imageshack.com/a/img922/4127/BIHQnK.png)
 
 
 
@@ -26,10 +26,27 @@ Tạo ra một website gồm những chức năng:
 - Quản lý doanh thu khách thanh toán
 - Thống kê báo cáo
 - Sử dụng các phương thức mã hóa trong quá trình giao dịch online
+####Thông tin tổ chức mã nguồn
+Framework này được thiết kế theo mô hình MVC, nó giúp cho việc thiết kế, xử lý và bảo trì mã nguồn dễ dàng, đồng thời tăng khả năng mở rộng của phần mềm. vận dụng mô hình này trong thiết kế, giúp tách biệt các tập tin giao diện với các tập tin xử lý dữ liệu, nâng cao khả năng quản lý và dễ bảo trì.
+
+Tập tin index.php được xem như controller đầu vào, tiếp nhận các yêu cầu từ phía client và chuyển các yêu cầu này cho hệ thống xử lý.
+
+
+
+Thư mục controllers: chứa các lớp controller
+Thư mục connection: chứa kết nối với csdl
+Thư mục models: chứa các lớp model
+Thư mục views: chứa các lớp view
+Thư mục js: bootstrap.js để thiết kết giao diện html
+Thư mục entities: chứa các thực thể
 
 #### Quản lý phiên bản:
 
 Chúng tôi dùng [Git](https://git-scm.com/) để tổ chức quản lý phiên bản theo hướng phân tán
+####Bảo mật 
+- Nhà phát triển sử dụng [Cuckoo Sandbox](http://nixmicrosoft.blogspot.com/2013/10/damn-vulnerable-web-app-dvwa_9.html)hệ thống phân tích malware động tự động, giám sát những file nghi ngờ trong một môi trường tách biệt.
+
+
 
 #### Tác giả
 
