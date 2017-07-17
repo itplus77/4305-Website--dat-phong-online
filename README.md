@@ -92,6 +92,8 @@ Tài liệu thiết kế: [Tài liệu dành cho thiết kế Html css](https://
 - Hệ thống CSDL DB2: [hướng dẫn chi tiết](https://www.ibm.com/developerworks/vn/library/contest/dw-freebooks/Nhap_Mon_DB2_ExpressC/Nhap_mon_DB2_ExpressC_v9.7.pdf)
 - Hướng dẫn lập trình JSP:[hướng dẫn chi tiết](http://o7planning.org/vi/10263/huong-dan-lap-trinh-java-jsp)
 - Hướng dẫn kết nối CSDL:[chuyển tiếp đến trang hướng dẫn](https://zstar2.wordpress.com/2011/05/06/java-k%E1%BA%BFt-n%E1%BB%91i-csdl-t%E1%BB%AB-netbean/)
+- Sử dụng các phương thức mã hóa trong quá trình giao dịch online
+- Thanh toán trực tuyến
 
 
 
