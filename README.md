@@ -56,6 +56,8 @@ Chúng tôi dùng [Git](https://git-scm.com/) để tổ chức quản lý phiê
 
 - Lê Thị Hoài thuận - Trưởng Nhóm (Giám đốc dự án) | Email: Hoaithuan95@gmail.com 
 - Trần Thanh Phương - cộng tác viên | Email:itplus1a1@gmail.com
+#### Thông tin phiên bản
+- Phiên bản cập nhật vào ngày 14/7/2017
 
 #### Giấy phép: 
 
